@@ -1,0 +1,50 @@
+Work Type Name,Group,Trade
+Pipe Leak Repair,Plumbing,Plumber
+Pipe Replacement,Plumbing,Plumber
+Drain Unblocking,Plumbing,Plumber
+Water Heater Repair,Plumbing,Plumber
+Toilet Installation,Plumbing,Plumber
+Fixture Replacement,Plumbing,Plumber
+Boiler Repair,HVAC,HVAC Technician
+Furnace Repair,HVAC,HVAC Technician
+Heating System Installation,HVAC,HVAC Technician
+Air Conditioning Repair,HVAC,HVAC Technician
+Duct Cleaning,HVAC,HVAC Technician
+Ceiling Fan Installation,Electrical,Electrician
+Light Fixture Installation,Electrical,Electrician
+Electrical Panel Upgrade,Electrical,Electrician
+Outlet Installation,Electrical,Electrician
+Wiring Repair,Electrical,Electrician
+Broken Window Repair,Windows,Glazier
+Window Replacement,Windows,Glazier
+Roof Leak Repair,Roofing,Roofer
+Roof Replacement,Roofing,Roofer
+Gutter Cleaning,Roofing,Roofer
+Tile Floor Installation,Flooring,Tile Setter
+Hardwood Floor Refinishing,Flooring,Flooring Specialist
+Carpet Installation,Flooring,Carpet Installer
+Drywall Repair,Walls,Drywall Contractor
+Wall Painting,Walls,Painter
+Interior Painting,Painting,Painter
+Exterior Painting,Painting,Painter
+Cabinet Installation,Cabinetry,Carpenter
+Fence Repair,Fencing,Fence Contractor
+Fence Installation,Fencing,Fence Contractor
+Deck Repair,Carpentry,Carpenter
+Deck Building,Carpentry,Carpenter
+Stair Repair,Carpentry,Carpenter
+Door Installation,Carpentry,Carpenter
+Lock Replacement,Security,Locksmith
+Foundation Repair,Structural,Structural Engineer
+Pest Control,Pest Management,Pest Controller
+Lawn Care Service,Landscaping,Landscaper
+Tree Removal,Landscaping,Arborist
+Sprinkler System Repair,Irrigation,Irrigation Specialist
+Pool Cleaning,Pool Maintenance,Pool Technician
+Appliance Repair,Appliances,Appliance Technician
+Garbage Disposal Installation,Plumbing,Plumber
+Sump Pump Installation,Plumbing,Plumber
+Shower Door Installation,Bathroom,Glass Installer
+Bath Tub Replacement,Bathroom,Plumber
+Dishwasher Installation,Appliances,Appliance Technician
+Garage Door Repair,Garage,Garage Door Specialist
